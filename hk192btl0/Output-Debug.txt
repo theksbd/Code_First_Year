@@ -1,0 +1,19 @@
+﻿'hk192btl1.exe' (Win32): Loaded 'G:\Soucre Visual Studio\hk192btl1\Debug\hk192btl1.exe'. Symbols loaded.
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x624 has exited with code 0 (0x0).
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'hk192btl1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x86c has exited with code 0 (0x0).
+The thread 0x1cd0 has exited with code 0 (0x0).
+The thread 0x1610 has exited with code 0 (0x0).
+The program '[8364] hk192btl1.exe' has exited with code 0 (0x0).
